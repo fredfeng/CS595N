@@ -10,7 +10,7 @@ When: Tue, 1pm-2:50pm
 
 | Date  | Topic                                         | Slides | Speaker |
 |-------|-----------------------------------------------|--------|------|
-| 1/7  | TBD                                  |   lec1   |  Trinabh Gupta    |
+| 1/7  | Toward Practical and Private Online Services   |   lec1   |  Trinabh Gupta    |
 | 1/14  | program synthesis for the masses         |  lec2      |  Yu Feng    |   
 | 1/21  |TBD             |  lec3      |  TBD    |   
 | 1/28  | TBD       |  lec4     |   TBD   |    
