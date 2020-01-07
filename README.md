@@ -12,7 +12,7 @@ When: Tue, 1pm-2:50pm
 |-------|-----------------------------------------------|--------|------|
 | 1/7  | Toward Practical and Private Online Services   |   lec1   |  Trinabh Gupta    |
 | 1/14  | program synthesis for the masses         |  lec2      |  Yu Feng    |   
-| 1/21  |TBD             |  lec3      |  TBD    |   
+| 1/21  |Finding, Fixing, and Preventing Security issues in Modern Systems              |  lec3      |  Aravind Machiry    |   
 | 1/28  | quantum computing       |  lec4     |   Yufei Ding   |    
 | 2/4 | TBD                   |  lec5    |      |    
 | 2/11 | TBD                           |  lec6      |  TBD    | 
