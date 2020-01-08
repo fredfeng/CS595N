@@ -18,6 +18,6 @@ When: Tue, 1pm-2:50pm
 | 2/11 | bionic vision                    |  Neuroscience | Michael Beyeler    | 
 | 2/18 | More Correct and Privacy Preserving Database Systems |  Database  |   Shumo Chu   |   
 | 2/25 | Computing with Temporal Logic; From CMOS to the Beyond Moore's Law Era              | Architecture        |   George Tzimpragos   |    
-| 3/3 | TBD            |   TBD     |   TBD   |   
+| 3/3 | Redesigning the Internet for Things            |   IoT     |   Rich Wolski   |   
 | 3/10 | Democratizing Networking Research in the era of AI/ML                        | Network       |  Arpit Gupta    |   
 
