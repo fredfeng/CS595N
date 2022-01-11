@@ -14,7 +14,7 @@ When: Tue, 1pm-2pm
 | 1/11  | TBD         |  TBD      |  Tevfik Bultan    |   
 | 1/18  | TBD     |  |Jonathan Balkind    |   
 | 1/25  | TBD       |  HPC     |   TBD   |    
-| 2/1 | Rich Wolski                   |      |   TBD   |    
+| 2/1 |                  |      |   Rich Wolski     |    
 | 2/8 | NLP                    |  NLP | Lei Li    | 
 | 2/15 | TBD |  Graphics  |   Lingqi Yan   |   
 | 2/22 | Quantum computing              | HPC        |   Yufei Ding   |    
