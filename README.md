@@ -14,10 +14,10 @@ When: Tue, 1pm-2pm
 | 1/11  | TBD         |  TBD      |  Tevfik Bultan    |   
 | 1/18  | TBD     |  TBD    |   
 | 1/25  | TBD       |  HPC     |   TBD   |    
-| 2/1 | TBD                   |  Graphics    |   TBD   |    
+| 2/1 | TBD                   |      |   TBD   |    
 | 2/8 | NLP                    |  NLP | Lei Li    | 
-| 2/15 | TBD |  TBD  |   TBD   |   
+| 2/15 | TBD |  Graphics  |   Lingqi Yan   |   
 | 2/22 | Quantum computing              | HPC        |   Yufei Ding   |    
-| 3/1 | TBD            |   IoT & Cryptography     |   TBD   |   
+| 3/1 | TBD            |   Brain    |   Michael Beyeler   |   
  
 
