@@ -12,7 +12,7 @@ When: Tue, 1pm-2pm
 |-------|-----------------------------------------------|--------|------|
 | 1/4  | Course Intro   |   PL   |  Yu Feng    |
 | 1/11  | TBD         |  TBD      |  Tevfik Bultan    |   
-| 1/18  | TBD     |  Jonathan Balkind    |   
+| 1/18  | TBD     |  |Jonathan Balkind    |   
 | 1/25  | TBD       |  HPC     |   TBD   |    
 | 2/1 | Rich Wolski                   |      |   TBD   |    
 | 2/8 | NLP                    |  NLP | Lei Li    | 
