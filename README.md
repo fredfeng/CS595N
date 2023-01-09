@@ -13,7 +13,6 @@ When: Tue, 1pm-2pm
 | 1/17  | Course Intro   |   PL/Security   |  Yu Feng    |
 | 1/24  |    Program Synthesis      |  PL      |  Yanju Chen    |   
 | 1/31  | Quantitative Symbolic Analysis for Software Security and Dependability     | SE  | Tevfik Bultan     |   
-
 | 2/7 |        TBD          |   TBD   |   TBD     |    
 | 2/14 | TBD                    |  TBD | TBD    | 
 | 2/21 | TBD |  TBD  |   TBD   |   
